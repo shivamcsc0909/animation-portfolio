@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "my-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -70,7 +70,7 @@
     "sonner": "^1.7.4",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
-    "three": "^r0.182.0",
+    "three": "^0.182.0",
     "vaul": "^1.1.2",
     "zod": "3.25.76"
   },
