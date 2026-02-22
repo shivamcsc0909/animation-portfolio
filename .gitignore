@@ -21,3 +21,12 @@ Thumbs.db
 
 # lockfiles for local dev (if you don't want them tracked)
 # pnpm-lock.yaml
+
+# ignore build artifacts
+.next/
+node_modules/
+dist/
+build/
+package-lock.json
+pnpm-lock.yaml
+
